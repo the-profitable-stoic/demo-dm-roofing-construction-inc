@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "DM Roofing & Construction Inc.",
+    "phone": "+19154337876",
+    "category": "roofer",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Roofing Experts",
+      "heroSubline": "DM Roofing & Construction provides reliable roofing solutions across El Paso. We deliver quality craftsmanship and lasting protection for your home or business.",
+      "aboutTitle": "Decades of Roofing Excellence in El Paso",
+      "aboutText": [
+        "DM Roofing & Construction Inc. started with a simple goal: to provide El Paso with roofing solutions built to withstand the harsh desert climate. Founded by lifelong El Pasoan, David Martinez, our company is rooted in integrity and a commitment to excellence.",
+        "We approach every project with meticulous attention to detail, using only the highest-quality materials and proven techniques. From initial inspection to final cleanup, we ensure a seamless and stress-free experience for our clients, whether they're in Kern Place or Horizon City.",
+        "As a local business, we're invested in the El Paso community. We actively support local initiatives and strive to build lasting relationships with our neighbors. Our reputation is built on trust, and we take pride in delivering roofing solutions that stand the test of time."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of El Paso's climate and building codes."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Using durable materials designed for the Southwest."
+        },
+        {
+          "title": "Experienced Team",
+          "description": "Skilled and certified roofing professionals."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "Dedicated to exceeding expectations on every project."
+        }
+      ],
+      "ctaHeadline": "Protect Your El Paso Home Today",
+      "ctaSubline": "Get a free, no-obligation roofing inspection and estimate."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast and reliable roof repair services to protect your El Paso property.",
+        "description": "DM Roofing & Construction provides comprehensive roof repair services throughout El Paso. From minor leaks to significant storm damage, our experienced team can quickly assess the problem and implement effective solutions. We understand the unique challenges posed by El Paso's climate, including intense sun exposure and occasional heavy rains, and we use materials and techniques specifically designed to withstand these conditions. \n\nOur roof repair services include leak detection and repair, shingle replacement, flashing repair, and addressing damage caused by wind, hail, or fallen debris. We work on all types of roofs, from traditional asphalt shingles to tile and metal roofing systems common in El Paso homes. \n\nWe prioritize prompt and efficient service to minimize further damage to your property. Our team will thoroughly inspect your roof, provide a detailed estimate, and complete the repairs with minimal disruption to your daily life. Whether you're in the Upper Valley or downtown, you can count on us for dependable roof repair services.",
+        "process": [
+          "Step 1: Thorough roof inspection to identify the source of the problem.",
+          "Step 2: Detailed estimate outlining the scope of work and cost.",
+          "Step 3: Professional repair using high-quality materials.",
+          "Step 4: Final inspection to ensure the repairs are completed to your satisfaction."
+        ],
+        "benefits": [
+          "Prevents further water damage and costly repairs.",
+          "Extends the lifespan of your roof.",
+          "Maintains the structural integrity of your home.",
+          "Enhances the curb appeal of your property."
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We understand the urgency of roof repairs and strive to respond to all requests as quickly as possible. In most cases, we can schedule an inspection within 24-48 hours."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer 24/7 emergency roof repair services for situations that require immediate attention, such as severe leaks or storm damage. Call us anytime, day or night."
+          },
+          {
+            "question": "How long will the roof repair take?",
+            "answer": "The duration of the roof repair will depend on the extent of the damage. We will provide you with an estimated timeline during the initial inspection."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Expert roof replacement services for El Paso's homes and businesses.",
+        "description": "When your roof reaches the end of its lifespan or sustains significant damage, a complete roof replacement is often the most cost-effective solution. DM Roofing & Construction specializes in providing professional roof replacement services throughout El Paso and its surrounding areas. We offer a wide selection of roofing materials to suit your style, budget, and the architectural character of your home, including asphalt shingles, tile, metal roofing, and more.\n\nOur experienced team will carefully remove your old roof, inspect the underlying structure for any damage, and install a new roofing system that meets or exceeds industry standards. We pay close attention to detail, ensuring proper ventilation, weatherproofing, and overall performance. We understand the importance of protecting your home from the elements, especially in El Paso's desert climate.\n\nWe work closely with our clients throughout the roof replacement process, providing clear communication and guidance. We'll help you choose the right roofing materials for your needs and ensure that the installation is completed efficiently and professionally. Trust DM Roofing & Construction for a durable and long-lasting roof replacement.",
+        "process": [
+          "Step 1: Thorough inspection and assessment of your existing roof.",
+          "Step 2: Consultation to discuss roofing material options and budget.",
+          "Step 3: Removal of the old roof and inspection of the underlying structure.",
+          "Step 4: Professional installation of the new roofing system."
+        ],
+        "benefits": [
+          "Increases the value of your property.",
+          "Provides long-term protection against the elements.",
+          "Improves energy efficiency and reduces utility bills.",
+          "Enhances the curb appeal of your home."
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as the weather conditions. In most cases, a typical roof replacement can be completed within 3-5 days."
+          },
+          {
+            "question": "What type of roofing material is best for El Paso's climate?",
+            "answer": "Asphalt shingles, tile, and metal roofing are all popular choices for El Paso homes. Asphalt shingles are cost-effective and durable, while tile offers excellent heat resistance and a classic look. Metal roofing is known for its longevity and energy efficiency."
+          },
+          {
+            "question": "Do you offer financing options for roof replacements?",
+            "answer": "Yes, we offer flexible financing options to help make roof replacements more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems before they escalate.",
+        "description": "Regular roof inspections are essential for maintaining the health and longevity of your roofing system. DM Roofing & Construction offers thorough roof inspection services to homeowners and business owners throughout El Paso. Our experienced inspectors will carefully examine your roof for signs of damage, wear and tear, and potential problems that could lead to costly repairs down the road.\n\nDuring a roof inspection, we'll check for cracked, missing, or damaged shingles, leaks, damaged flashing, clogged gutters, and other issues that could compromise the integrity of your roof. We'll provide you with a detailed report outlining our findings and recommendations for any necessary repairs or maintenance.\n\nWhether you're buying or selling a home, or simply want to ensure that your roof is in good condition, a professional roof inspection from DM Roofing & Construction is a smart investment.",
+        "process": [
+          "Step 1: Visual inspection of the roof from the ground.",
+          "Step 2: Close-up inspection of the roof surface.",
+          "Step 3: Inspection of the attic for signs of leaks or damage.",
+          "Step 4: Detailed report with findings and recommendations."
+        ],
+        "benefits": [
+          "Identifies potential problems early on.",
+          "Helps prevent costly repairs.",
+          "Extends the lifespan of your roof.",
+          "Provides peace of mind."
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, and more frequently if you live in an area prone to severe weather."
+          },
+          {
+            "question": "What does a roof inspection cost?",
+            "answer": "The cost of a roof inspection depends on the size and complexity of the roof. Contact us for a free quote."
+          },
+          {
+            "question": "Will I receive a written report after the inspection?",
+            "answer": "Yes, we will provide you with a detailed written report outlining our findings and recommendations."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Gutter installation, repair, and cleaning services to protect your El Paso home.",
+        "description": "DM Roofing & Construction provides comprehensive gutter services to protect your home from water damage. Gutters play a crucial role in directing rainwater away from your foundation, preventing erosion and water damage to your home's structure. We offer gutter installation, repair, and cleaning services to ensure that your gutters are functioning properly.\n\nWe install seamless gutters, which are custom-made to fit your home and minimize the risk of leaks. We also offer gutter guards to prevent leaves and debris from clogging your gutters. Our gutter repair services include fixing leaks, repairing damaged sections, and re-securing gutters to your home.\n\nRegular gutter cleaning is essential for maintaining proper drainage and preventing water damage. We'll remove leaves, debris, and other obstructions from your gutters, ensuring that they are functioning efficiently.",
+        "process": [
+          "Step 1: Inspection of your existing gutters.",
+          "Step 2: Recommendation for the best gutter solution for your home.",
+          "Step 3: Professional installation or repair of your gutters.",
+          "Step 4: Cleaning and maintenance to ensure optimal performance."
+        ],
+        "benefits": [
+          "Protects your foundation from water damage.",
+          "Prevents erosion and landscaping damage.",
+          "Extends the lifespan of your roof.",
+          "Maintains the value of your home."
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, and more frequently if you live in an area with lots of trees."
+          },
+          {
+            "question": "What are seamless gutters?",
+            "answer": "Seamless gutters are custom-made to fit your home and minimize the risk of leaks. They are more durable and require less maintenance than traditional sectional gutters."
+          },
+          {
+            "question": "Do you offer gutter guards?",
+            "answer": "Yes, we offer a variety of gutter guards to prevent leaves and debris from clogging your gutters."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Expert commercial roofing services for El Paso businesses.",
+        "description": "DM Roofing & Construction provides a full range of commercial roofing services to businesses throughout El Paso. We understand the unique challenges of commercial roofing, and we have the expertise and experience to handle projects of any size and complexity. We work with a variety of commercial roofing systems, including TPO, EPDM, metal roofing, and built-up roofing.\n\nOur commercial roofing services include roof installation, repair, and maintenance. We also offer roof inspections to help you identify potential problems before they escalate. We're committed to providing our commercial clients with reliable, cost-effective roofing solutions that protect their investments.",
+        "process": [
+          "Step 1: Consultation to discuss your commercial roofing needs.",
+          "Step 2: Thorough inspection of your existing roof.",
+          "Step 3: Recommendation for the best roofing solution for your business.",
+          "Step 4: Professional installation, repair, or maintenance of your commercial roof."
+        ],
+        "benefits": [
+          "Protects your business from the elements.",
+          "Extends the lifespan of your commercial roof.",
+          "Reduces energy costs.",
+          "Maintains the value of your property."
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you work with?",
+            "answer": "We work with a variety of commercial roofing systems, including TPO, EPDM, metal roofing, and built-up roofing."
+          },
+          {
+            "question": "Do you offer roof maintenance programs for commercial buildings?",
+            "answer": "Yes, we offer customized roof maintenance programs to help you keep your commercial roof in top condition."
+          },
+          {
+            "question": "What is the lifespan of a commercial roof?",
+            "answer": "The lifespan of a commercial roof depends on the type of roofing system and the quality of the installation. With proper maintenance, a commercial roof can last for 20-30 years or more."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Reliable storm damage repair services to restore your El Paso property.",
+        "description": "El Paso's weather can be unpredictable, and severe storms can cause significant damage to your roof. DM Roofing & Construction provides prompt and reliable storm damage repair services to homeowners and business owners throughout El Paso. We understand the urgency of storm damage repairs, and we're available 24/7 to respond to emergencies.\n\nOur storm damage repair services include assessing the damage, providing temporary repairs to prevent further damage, and completing permanent repairs to restore your roof to its original condition. We work with all types of roofing materials, and we're experienced in handling insurance claims.\n\nIf your roof has been damaged by a storm, don't hesitate to contact DM Roofing & Construction for immediate assistance.",
+        "process": [
+          "Step 1: Emergency response and assessment of the damage.",
+          "Step 2: Temporary repairs to prevent further damage.",
+          "Step 3: Detailed estimate for permanent repairs.",
+          "Step 4: Professional completion of the storm damage repairs."
+        ],
+        "benefits": [
+          "Protects your home from further damage.",
+          "Restores the structural integrity of your roof.",
+          "Handles insurance claims efficiently.",
+          "Provides peace of mind."
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my roof has been damaged by a storm?",
+            "answer": "The first thing you should do is contact DM Roofing & Construction for immediate assistance. We'll assess the damage and provide temporary repairs to prevent further damage."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we're experienced in handling insurance claims and can work directly with your insurance company to ensure that your claim is processed smoothly."
+          },
+          {
+            "question": "How long will it take to repair my roof after a storm?",
+            "answer": "The duration of the repairs will depend on the extent of the damage. We'll provide you with an estimated timeline during the initial assessment."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "DM Roofing & Construction Inc. is proud to serve the El Paso community with top-quality roofing services. From the historic neighborhoods near downtown to the growing areas on the west side, we understand the unique roofing needs of El Paso homeowners and businesses. We offer a full range of services, including roof repair, replacement, and maintenance, using only the best materials and skilled craftsmanship.\n\nWe are committed to providing El Paso residents with reliable and affordable roofing solutions. Whether you need a minor repair after a monsoon storm or a complete roof replacement, our team is here to help. We prioritize customer satisfaction and strive to exceed your expectations with every project. We take pride in our work and stand behind our craftsmanship.",
+        "localContext": "El Paso, known for its stunning desert landscapes and vibrant culture, experiences extreme temperatures and occasional intense weather that can impact roofing systems. DM Roofing & Construction Inc. understands these local challenges and provides roofing solutions tailored to withstand the El Paso climate.",
+        "nearbyAreas": [
+          "Anthony",
+          "Canutillo",
+          "Socorro"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "DM Roofing & Construction Inc. extends its expert roofing services to Socorro, TX. We understand the specific needs of this growing community, offering comprehensive roofing solutions for both residential and commercial properties. From new roof installations to repairs and maintenance, we ensure that your roof is built to last and protect your property.\n\nWe are dedicated to providing Socorro residents with reliable and affordable roofing services. We use only the highest quality materials and employ experienced professionals to ensure that every project is completed to the highest standards. Customer satisfaction is our top priority, and we strive to exceed your expectations with every job.",
+        "localContext": "Socorro's proximity to the Rio Grande and its desert climate can present unique challenges for roofing systems. DM Roofing & Construction Inc. offers tailored roofing solutions to withstand the local environment, ensuring your roof's longevity and performance.",
+        "nearbyAreas": [
+          "El Paso",
+          "Horizon City",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "DM Roofing & Construction Inc. is proud to offer its comprehensive roofing services to the residents and businesses of Horizon City, TX. As a rapidly growing community, Horizon City demands reliable and durable roofing solutions, and we are here to meet that need. We provide a full spectrum of services, including roof repair, replacement, and new installations, using only the finest materials and skilled labor.\n\nWe are committed to providing Horizon City with roofing services that are both affordable and dependable. Whether you need a quick repair or a completely new roof, our team is ready to assist you. We prioritize customer satisfaction and strive to surpass your expectations on every project, ensuring that your roof is both beautiful and functional.",
+        "localContext": "Horizon City's location in the Chihuahuan Desert means roofs must withstand intense sun and occasional strong winds. DM Roofing & Construction Inc. provides roofing solutions designed to excel in this challenging environment.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "DM Roofing & Construction Inc. is dedicated to serving the Canutillo, TX community with exceptional roofing services. We understand the unique characteristics of homes and businesses in Canutillo, and we offer tailored roofing solutions to meet their specific needs. From minor repairs to complete roof replacements, we are committed to providing quality workmanship and superior customer service.\n\nWe are committed to delivering reliable and affordable roofing solutions to Canutillo residents. Our team of skilled professionals uses only the highest quality materials and proven techniques to ensure that your roof is built to last. We take pride in our work and strive to exceed your expectations with every project.",
+        "localContext": "Canutillo's location near the Rio Grande Valley makes it susceptible to unique weather patterns. DM Roofing & Construction Inc. is well-versed in the local climate and provides roofing solutions designed to withstand the elements.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "DM Roofing & Construction Inc. proudly serves the community of Anthony, TX, providing top-notch roofing services for residential and commercial properties. We understand the specific needs of Anthony's homes and businesses, and we offer a wide range of roofing solutions to meet those needs. From repairs and maintenance to complete roof replacements, we are committed to delivering exceptional workmanship and customer satisfaction.\n\nWe are dedicated to providing Anthony residents with reliable and affordable roofing services. Our team of experienced professionals uses only the highest quality materials and proven techniques to ensure that your roof is built to last. We take pride in our work and strive to exceed your expectations with every project.",
+        "localContext": "Anthony's location in the Upper Rio Grande Valley exposes it to a range of weather conditions, including intense sun and occasional strong winds. DM Roofing & Construction Inc. understands these local challenges and provides roofing solutions tailored to withstand the elements.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "DM Roofing & Construction Inc. provides roofing services to the town of Clint, TX. We offer roofing services for residential and commercial properties of all sizes. We work hard to provide roofing solutions that are affordable and reliable.\n\nOur team of professionals are skilled and always ready to help. We are committed to providing Clint residents with the best roofing service possible. We ensure that our customers are always satisfied with our services.",
+        "localContext": "Clint's desert climate means roofs must withstand intense sun and occasional strong winds. DM Roofing & Construction Inc. provides roofing solutions designed to excel in this challenging environment.",
+        "nearbyAreas": [
+          "Horizon City",
+          "Socorro",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "DM Roofing & Construction Inc. proudly serves the historic community of San Elizario, TX, offering expert roofing services that respect the town's unique architectural heritage. We understand the importance of preserving the character of San Elizario's buildings while providing modern, durable roofing solutions. From traditional roofing materials to energy-efficient options, we offer a wide range of services to meet the needs of homeowners and businesses alike.\n\nWe are committed to providing San Elizario residents with reliable and affordable roofing services. Our team of skilled professionals uses only the highest quality materials and proven techniques to ensure that your roof is built to last. We take pride in our work and strive to exceed your expectations with every project.",
+        "localContext": "San Elizario's rich history and unique architectural styles require a roofing contractor with specialized knowledge and experience. DM Roofing & Construction Inc. is dedicated to preserving the town's heritage while providing durable and reliable roofing solutions.",
+        "nearbyAreas": [
+          "Clint",
+          "Socorro",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "Vinton",
+        "slug": "vinton-tx",
+        "state": "TX",
+        "content": "DM Roofing & Construction Inc. is committed to providing the best roofing services to all residents in Vinton, TX. We offer roofing services for both residential and commercial properties. We provide roofing solutions that are reliable and affordable. \n\nOur team is ready to provide the best service possible. We ensure that our customers are always satisfied with our services and the quality of our work.",
+        "localContext": "Vinton's desert climate means roofs must withstand intense sun and occasional strong winds. DM Roofing & Construction Inc. provides roofing solutions designed to excel in this challenging environment.",
+        "nearbyAreas": [
+          "Anthony",
+          "Canutillo",
+          "El Paso"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "DM Roofing fixed a major leak in my roof after the last big rain. They were fast, professional, and the price was very reasonable. I highly recommend them!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Roof Replacement",
+        "text": "We had our entire roof replaced by DM Roofing. The crew was hardworking and cleaned up everything afterward. There were a couple of minor hiccups, but they addressed them quickly. Roof looks great!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "I hired DM Roofing to clean my gutters, which were completely clogged with leaves. They did an excellent job and now the water flows freely. Very happy with their service.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Jose M.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "DM Roofing performed a thorough inspection of my roof before I bought my new home. Their report was very detailed and helped me negotiate a better price. Worth every penny!",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Patricia L.",
+        "rating": 4,
+        "service": "Commercial Roofing",
+        "text": "We used DM Roofing for some repairs on our business's flat roof. They were responsive and got the job done quickly with minimal disruption to our operations.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "David R.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a recent hailstorm, DM Roofing was out to my house within hours. They tarped the damaged areas and worked with my insurance company to get the repairs done quickly. Excellent service!",
+        "date": "2024-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "DM Roofing: El Paso Roofing Contractor",
+        "description": "Reliable roofing services in El Paso, TX. Roof repair, replacement, inspections. Free estimates. Call +19154337876."
+      },
+      "about": {
+        "title": "About DM Roofing & Construction",
+        "description": "Learn about DM Roofing & Construction's commitment to quality roofing in El Paso. Experienced, local, and dedicated to customer satisfaction."
+      },
+      "services": {
+        "title": "Roofing Services in El Paso, TX",
+        "description": "DM Roofing & Construction offers comprehensive roofing services. Repair, replacement, inspections, gutters, and more. Serving El Paso and surrounding areas."
+      },
+      "contact": {
+        "title": "Contact DM Roofing & Construction",
+        "description": "Get in touch with DM Roofing & Construction for roofing services in El Paso. Call +19154337876 or request a free estimate online."
+      },
+      "reviews": {
+        "title": "DM Roofing & Construction Reviews",
+        "description": "Read what our satisfied customers are saying about DM Roofing & Construction. Quality roofing services in El Paso, TX."
+      },
+      "service-areas": {
+        "title": "DM Roofing Service Areas",
+        "description": "DM Roofing & Construction provides roofing services in El Paso, TX and surrounding communities. Find out if we serve your area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
